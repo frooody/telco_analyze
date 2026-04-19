@@ -95,8 +95,6 @@
 
 ---
 
-## Как запустить проект
-
-```bash
-pip install pandas matplotlib seaborn
-jupyter notebook
+## О проекте:
+- Автор: Сорокин Д.С.
+- Дата выполнения: 12.04.2026
